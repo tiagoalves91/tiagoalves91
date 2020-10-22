@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there, i'm Tiago :facepunch:</h1>
-<img src="https://gitlab.com/nelsonsantos22/support/-/raw/master/banner-04.png">
+<!--<img src="https://gitlab.com/nelsonsantos22/support/-/raw/master/banner-04.png">
 <h4>Junior Full Stack Developer</h4>
 
 <h2>:telescope: Find me around the web</h2>
