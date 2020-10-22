@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there, i'm Tiago :facepunch:</h1>
+<img src="C:\Users\tiago\Desktop\0.jfif">
 <h4>Junior Full Stack Developer</h4>
 
 <h2>:telescope: Find me around the web</h2>
