@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2>:telescope: Find me around the web</h2>
 <ul>
- <li><a href="https://www.linkedin.com/in/tiagoalvesgoncalves/">Linkedin</li>
+ <li><a href="https://www.linkedin.com/in/tiagoalvesgoncalves/">TiagoAlvesLinkedin</li>
 </ul>
 <h2>:mega: Get in touch</h2>
 <ul>
