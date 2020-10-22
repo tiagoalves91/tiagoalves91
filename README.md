@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi there, i'm Tiago :facepunch:</h1>
+<h4>Junior Full Stack Developer</h4>
+
+<h2>:telescope: Find me around the web</h2>
+<ul>
+ <li><a href="https://www.linkedin.com/in/tiagoalvesgoncalves/">Linkedin</li>
+</ul>
+<h2>:mega: Get in touch</h2>
+<ul>
+ <li><a href="alvesgoncalves.tiago@gmail.com">alvesgoncalves.tiago@gmail.com</li>
+</ul>
