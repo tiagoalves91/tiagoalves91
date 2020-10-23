@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>:earth_africa: Find me around the web</h2>
 <ul>
- <li><a href="https://www.linkedin.com/in/tiagoalvesgoncalves/">TiagoAlvesLinkedin</li>
+ <li><a href="https://www.linkedin.com/in/tiagoalvesgoncalves/">TiagoAlves_Linkedin</li>
 </ul>
 <h2>:mailbox: Get in touch</h2>
 <ul>
