@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi there, i'm Tiago :facepunch:</h1>
+<h1>Hi there, i'm Tiago :mask:</h1>
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGeYXCvfavkaQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1608768000&v=beta&t=VYjoPTAymYweGMswfAEMoHzhtWGA8_hACpP_uTxEPec">
 
-<h2>:telescope: Find me around the web</h2>
+<h2>:earth_africa: Find me around the web</h2>
 <ul>
  <li><a href="https://www.linkedin.com/in/tiagoalvesgoncalves/">TiagoAlvesLinkedin</li>
 </ul>
-<h2>:mega: Get in touch</h2>
+<h2>:mailbox: Get in touch</h2>
 <ul>
  <li><a href="alvesgoncalves.tiago@gmail.com">alvesgoncalves.tiago@gmail.com</li>
 </ul>
