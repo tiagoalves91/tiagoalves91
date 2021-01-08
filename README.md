@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1>                                              Hi there, i'm Tiago :alien:</h1>
 </br>
 </br>
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGeYXCvfavkaQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1608768000&v=beta&t=VYjoPTAymYweGMswfAEMoHzhtWGA8_hACpP_uTxEPec">
+
 
 <h2>:earth_africa: Find me around the web</h2>
 <ul>
